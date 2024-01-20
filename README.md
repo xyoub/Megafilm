@@ -1,7 +1,7 @@
 si vous voulez ce projet telecharger le 
-1 supprimer le dossier migration
-2 add-migration name
-3 update database 
+1) supprimer le dossier migration
+2) add-migration name
+3) update database 
 ![image](https://github.com/xyoub/Megafilm/assets/87517775/6c1a0784-84a0-4efb-96cc-2043af20ed34)
 ![image](https://github.com/xyoub/Megafilm/assets/87517775/c0452003-10b7-4418-84c4-8c753b1a72a6)
 ![image](https://github.com/xyoub/Megafilm/assets/87517775/69456563-6bc9-4e0c-839e-c99ee75b5476)
