@@ -1,10 +1,10 @@
-si vous voulez ce projet telecharger le 
+I) Si vous voulez ce projet telecharger le 
 1) supprimer le dossier migration
 2) add-migration name
 3) update database
 
    
-Diagramme de classe :
+II) Diagramme de classe :
 
 
 ![image](https://github.com/xyoub/Megafilm/assets/87517775/993475d8-15ef-41ce-9892-f8af15b1401d)
